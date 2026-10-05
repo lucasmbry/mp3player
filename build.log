@@ -1,0 +1,4 @@
+
+ERROR: ESP-IDF Python virtual environment "C:\Espressif\tools \python_env\idf6.1_py3.13_env\Scripts\python.exe" not found. Please run the install script to set it up before proceeding.
+'idf.py' is not recognized as an internal or external command,
+operable program or batch file.

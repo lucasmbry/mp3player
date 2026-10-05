@@ -1,0 +1,4 @@
+dependencies:
+  espressif/arduino-esp32:
+    version: "^3.0.0" # Or 3.1.x / stable 3.x rather than 4.0.0-rc1
+    # If using 4.x, verify whether you need full submodules or override transitive dependencies
