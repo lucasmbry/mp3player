@@ -1,4 +1,4 @@
-# MusicBox
+# mp3player
 
 A lightweight, MP3 player built for minimal resource usage and simple playback control on custom hardware
 
